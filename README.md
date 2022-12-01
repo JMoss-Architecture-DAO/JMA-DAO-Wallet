@@ -133,11 +133,15 @@ As you can see in `package.json`, this does two things:
   3. PayOut with JMA_DAO native currency, a smart contract response to message description from 1. above. (visible to all CM on wallet interface)
 
 Payment System Description!
+===============
 The JMA_DAO community uses a native satble cryptocurrency for all its pay outs. Payment made by the community members has a description that details the purpose of the paynent. When paymenyt is made (using any listed Cryptocurency) 
 it goes to the JMA_DOA Escrow acount in the wallet (not visible on the wallet but availble on chain) the Escrow account automatically swaps all incominmg payment to the JMA_DAO native stable coin using a hybrid smart contract. 
-Payouts are then made to curresponding account using the information in the message description. All payouts are make using the JMA_DAO native stable cryptocurrency.![JMA_DOA Wallet System (1)](https://user-images.githubusercontent.com/81659794/204951712-d7122d31-80a9-440a-b7e4-10f9fabbc41a.png)
+Payouts are then made to curresponding account using the information in the message description. All payouts are make using the JMA_DAO native stable cryptocurrency.
 
+![JMA_DOA Wallet System (1)](https://user-images.githubusercontent.com/81659794/204951712-d7122d31-80a9-440a-b7e4-10f9fabbc41a.png)
 
+JMA_DOA Wallet Prototype 
+========
   
   
   
