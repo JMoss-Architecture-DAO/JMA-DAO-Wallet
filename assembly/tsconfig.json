@@ -4,3 +4,15 @@
     "./**/*.ts"
   ]
 }
+
+
+        // In case you are using Node.js
+        const Web3 = require('web3');
+        // Setting getblock node as HTTP provider
+        const provider = new Web3.providers.HttpProvider("https://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY_HERE");
+        // or as WebSocket provider
+        const provider = new Web3.provider.WebSocketProvider("wss://eth.getblock.io/mainnet/?api_key=YOUR_API_KEY_HERE");
+        // Creating web3 instance with given provider
+        const web3 = new Web3(provider);
+        // Initializing web3.eth method
+        var block = web3.eth.getBlockNumber().then(console.log);
