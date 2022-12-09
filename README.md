@@ -142,7 +142,12 @@ Payouts are then made to curresponding account using the information in the mess
 
 JMA_DOA Wallet Prototype 
 ========
-  
+  ![JMA_DAO Wallet Prototype 1](https://user-images.githubusercontent.com/81659794/206685355-a16f2201-8813-4512-8afd-b0162799a234.png)
+![JMA_DAO Wallet Prototype (2)](https://user-images.githubusercontent.com/81659794/206685399-6adcf469-de21-4906-b3ce-26990f086922.png)
+![JMA_DAO Wallet Prototype (3)](https://user-images.githubusercontent.com/81659794/206685436-7e5d1a4a-8e24-4bbc-9a2c-fa6471695548.png)
+![JMA_DAO Wallet Prototype (4)](https://user-images.githubusercontent.com/81659794/206685497-50fa836d-0189-46d6-bffc-eb78b182ada6.png)
+![JMA_DAO Wallet Prototype (5)](https://user-images.githubusercontent.com/81659794/206685547-96b47a50-7b96-4048-a2fa-e861ec6ba06f.png)
+
   
   
   
