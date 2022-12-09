@@ -152,29 +152,54 @@ JMA_DOA Wallet Prototype
   JMA_DAO Wallet Integration Network Endpoints on GetBook. JSON-RPC
   ====================================
   
- NEAR Protocol   https://near.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Ethereum        https://eth.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Bitcoin         https://btc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Polygon         https://matic.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Fantom          https://ftm.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- BNB Smart Chain https://bsc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Solana          https://sol.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Gnosis Chain    https://gno.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Optimism        https://op.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Avalanche       https://avax.getblock.io/mainnet/b0561539-f8e0-4b92-8120-898d8fbadcdb/ext/bc/C/rpc
- Waves           https://waves.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- KUKOIN Community Chain     https://kcc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Theta           https://theta.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Bitcoin Cash    https://bch.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- LightCoin       https://ltc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Harmony         https://one.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Cosmos          https://atom.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Arbitrum        https://arbitrum.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Algorand        https://algo.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- DogeCoin        https://doge.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Etereum Clasic  https://etc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Polkadot        https://dot.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
- Fuse.io         https://fuse.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+  
+NEAR Protocol   https://near.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Ethereum        https://eth.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Bitcoin         https://btc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Polygon         https://matic.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+
+Fantom          https://ftm.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+BNB Smart Chain https://bsc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Solana          https://sol.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Gnosis Chain    https://gno.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Optimism        https://op.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Avalanche       https://avax.getblock.io/mainnet/b0561539-f8e0-4b92-8120-898d8fbadcdb/ext/bc/C/rpc
+
+Waves           https://waves.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+KUKOIN Community Chain     https://kcc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Theta           https://theta.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Bitcoin Cash    https://bch.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+LightCoin       https://ltc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Harmony         https://one.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Cosmos          https://atom.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Arbitrum        https://arbitrum.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Algorand        https://algo.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+DogeCoin        https://doge.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Etereum Clasic  https://etc.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Polkadot        https://dot.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+
+Fuse.io         https://fuse.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/mainnet/
+ 
  
  
  Create a Dedicated JMA_DAO Node.
