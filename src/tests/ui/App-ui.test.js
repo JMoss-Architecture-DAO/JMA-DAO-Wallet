@@ -52,6 +52,6 @@ it('renders with proper title', () => {
   });
 
   const testInstance = testRenderer.root;
-
+$ git remote set-url origin https://github.com/JMoss-Architecture-DAO/JMA-DAO-Wallet.git
   expect(testInstance.findByType('h1').children).toEqual(['NEAR Guest Book']);
 });
