@@ -127,15 +127,15 @@ As you can see in `package.json`, this does two things:
   
   Add wallet integrstions after message description, to allow for payment with any listed cryptocurency of choice. 
   
-  JMA_DAO Wallet will have three major smart contrct interactions.
-  1. Make payment with any listed cryptocurency of choice, with a message description. (visble to all CM on wallet interface)
-  2. Smart Contract Automatically swaps all payment to JMA_DAO native stable cryptocurency (visible on cahin, using forked Explore)
-  3. PayOut with JMA_DAO native currency, a smart contract response to message description from 1. above. (visible to all CM on wallet interface)
+  JMA_DAO Wallet will have three major smart contract interactions.
+  1. Make payment with any listed cryptocurency of choice, with a message description. (visble to all community members on wallet interface)
+  2. Smart Contract Automatically swaps all payment to JMA_DAO native stable cryptocurency (visible on cahin, using a dedicated shaered node on getblock.io)
+  3. PayOut with JMA_DAO native currency, a smart contract response to message description from 1. above. (visible to all community member on wallet interface)
 
 Payment System Description!
 ===============
 The JMA_DAO community uses a native satble cryptocurrency for all its pay outs. Payment made by the community members has a description that details the purpose of the paynent. When paymenyt is made (using any listed Cryptocurency) 
-it goes to the JMA_DOA Escrow acount in the wallet (not visible on the wallet but availble on chain) the Escrow account automatically swaps all incominmg payment to the JMA_DAO native stable coin using a hybrid smart contract. 
+it goes to the JMA_DAO Escrow acount in the wallet (not visible on the wallet but availble on chain) the Escrow account automatically swaps all incominmg payment to the JMA_DAO native stable coin using a hybrid smart contract. 
 Payouts are then made to curresponding account using the information in the message description. All payouts are make using the JMA_DAO native stable cryptocurrency.
 
 ![JMA_DAO Wallet System (1)](https://user-images.githubusercontent.com/81659794/204951712-d7122d31-80a9-440a-b7e4-10f9fabbc41a.png)
@@ -204,6 +204,7 @@ Fuse.io         https://fuse.getblock.io/b0561539-f8e0-4b92-8120-898d8fbadcdb/ma
  
  Create a Dedicated JMA_DAO Node.
  ================
- 
+ JMA_DAO Shared Nodes in development on getblock.io 
+ https://account.getblock.io/ 
  
  
